@@ -1,0 +1,23 @@
+{
+  "name": "validator-selector",
+  "version": "1.0.0",
+  "description": "Script to fairly select validators for stCELO",
+  "main": "validator-selector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-chrzan/validator-selector.git"
+  },
+  "author": "Martin Chrzanowski",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/m-chrzan/validator-selector/issues"
+  },
+  "homepage": "https://github.com/m-chrzan/validator-selector#readme",
+  "dependencies": {
+    "bignumber.js": "^9.0.2",
+    "sha.js": "^2.4.11"
+  }
+}
